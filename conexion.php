@@ -1,11 +1,10 @@
 <?php
-$host = "dpg-d0gmoe3uibrs73fovbf0-a"; 
-$dbname = 'biblioteca';
+$host = 'metro.proxy.rlwy.net';
+$port = 29819;
+$db   = 'railway';
 $user = 'root';
-$pass = '4iDgnJrk1GNMig04wFTdgma16MlG6mPW';
+$pass = 'GpbdPRfYHNYmGfTNcAgvbKVDccYBQCiC'; 
 $charset = 'utf8mb4';
-
-$dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db;charset=$charset", $user, $pass);
