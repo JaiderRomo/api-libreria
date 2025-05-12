@@ -1,6 +1,6 @@
 <?php
 $host = 'mysql.railway.internal';
-$port = 29819;
+$port = 3306;
 $db   = 'railway';
 $user = 'root';
 $pass = 'GpbdPRfYHNYmGfTNcAgvbKVDccYBQCiC'; 
