@@ -5,6 +5,7 @@ $user = 'root';
 $pass = '4iDgnJrk1GNMig04wFTdgma16MlG6mPW';
 $charset = 'utf8mb4';
 
+$dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db;charset=$charset", $user, $pass);
