@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS libros (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(255),
+    autor VARCHAR(255),
+    fecha DATE
+);
