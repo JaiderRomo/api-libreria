@@ -1,5 +1,5 @@
 <?php
-$host = "dpg-xxxxxabcdef1234xx.render.com"; 
+$host = "dpg-d0gmoe3uibrs73fovbf0-a"; 
 $dbname = 'biblioteca';
 $user = 'root';
 $pass = '4iDgnJrk1GNMig04wFTdgma16MlG6mPW';
