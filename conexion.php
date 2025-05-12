@@ -1,8 +1,8 @@
 <?php
-$host = 'mydbhost.onrender.com';
+$host = "dpg-xxxxxabcdef1234xx.render.com"; 
 $dbname = 'biblioteca';
 $user = 'root';
-$pass = 'root';
+$pass = '4iDgnJrk1GNMig04wFTdgma16MlG6mPW';
 $charset = 'utf8mb4';
 
 
